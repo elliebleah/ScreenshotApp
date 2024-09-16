@@ -1,0 +1,10 @@
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\bin\Debug\ScreenshotApplication.exe.config
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\bin\Debug\ScreenshotApplication.exe
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\bin\Debug\ScreenshotApplication.pdb
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\obj\Debug\ScreenshotApplication.csproj.AssemblyReference.cache
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\obj\Debug\ScreenshotApplication.Properties.Resources.resources
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\obj\Debug\ScreenshotApplication.csproj.GenerateResource.cache
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\obj\Debug\ScreenshotApplication.csproj.CoreCompileInputs.cache
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\obj\Debug\ScreenshotApplication.exe
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\obj\Debug\ScreenshotApplication.pdb
+C:\Users\elike\source\repos\ScreenshotApp\ScreenshotApplication\ScreenshotApplication\obj\Debug\ScreenCaptureApp.ScreenCaptureForm.resources
